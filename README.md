@@ -1,5 +1,5 @@
 
-Parallel Solution to Breadth First Search Problems
+# Parallel Solution to Breadth First Search Problems
 
 ---
 
