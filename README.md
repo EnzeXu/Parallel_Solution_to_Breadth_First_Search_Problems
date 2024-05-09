@@ -5,6 +5,7 @@ Parallel Solution to Breadth First Search Problems
 
 ![mpiBFSdata](https://github.com/EnzeXu/Parallel_Solution_to_Breadth_First_Search_Problems/assets/90367338/2fbf872d-048f-4e89-a737-adf70dab63ae)
 
+<p style="text-align: center;">Figure: Parallel BFS Data Distribution in MPI Model</p>
 
 ---
 
