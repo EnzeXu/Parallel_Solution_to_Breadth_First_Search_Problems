@@ -1,0 +1,12 @@
+bfs_pram
+*.out
+.vscode
+*
+!.gitignore
+!bfs_mpi.cpp
+!bfs_openmp.cpp
+!mpi_diff*
+!openmp_diff*
+!utils.h
+.DS_Store
+!README.md
