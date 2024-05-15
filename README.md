@@ -1,6 +1,5 @@
 
-# CSCI 642 Final Project:
-# Parallel Solution to Breadth First Search Problems
+# CSCI 642 Final Project: Parallel Solution to Breadth First Search Problems
 
 ---
 
