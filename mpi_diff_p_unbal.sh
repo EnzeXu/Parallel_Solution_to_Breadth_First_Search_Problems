@@ -179,3 +179,4 @@ mpirun -n 3 ./a.out 30000 0.5 0 1
 mpirun -n 2 ./a.out 30000 0.5 0 1
 mpirun -n 1 ./a.out 30000 0.5 0 1
 
+

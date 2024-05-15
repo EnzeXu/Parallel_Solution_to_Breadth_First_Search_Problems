@@ -12,6 +12,7 @@ mpirun -n 10 ./a.out 8192 0.01 0 1
 mpirun -n 10 ./a.out 16384 0.01 0 1
 mpirun -n 10 ./a.out 32768 0.01 0 1
 
+
 mpirun -n 10 ./a.out 16 0.1 0 1
 mpirun -n 10 ./a.out 32 0.1 0 1
 mpirun -n 10 ./a.out 64 0.1 0 1
@@ -24,6 +25,7 @@ mpirun -n 10 ./a.out 4096 0.1 0 1
 mpirun -n 10 ./a.out 8192 0.1 0 1
 mpirun -n 10 ./a.out 16384 0.1 0 1
 mpirun -n 10 ./a.out 32768 0.1 0 1
+
 
 mpirun -n 10 ./a.out 16 0.3 0 1
 mpirun -n 10 ./a.out 32 0.3 0 1
