@@ -42,7 +42,6 @@ Paper BibTeX:
 }
 ```
 
-
 # 3. Questions
 
 If you have any questions, please contact xezpku@gmail.com.
